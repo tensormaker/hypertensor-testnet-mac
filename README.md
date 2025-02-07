@@ -31,4 +31,4 @@ This repository contains an automated setup script for deploying a Tensor Node v
 
    ```bash
    git clone https://github.com/tensormaker/hypertensor-testnet-mac.git
-   cd yourrepo
+   cd tensormaker
